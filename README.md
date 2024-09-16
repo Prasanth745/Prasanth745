@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasanth P</h1>
 <h3 align="center">A passionate Data scientist And Gen AI from India</h3>
-<img align="right" alt="Coding" width="450"  src="https://wallpapers.com/images/featured/anime-boy-pictures-ikoa2ot553mv58hf.jpg" />
+<img align="right" alt="Coding" width="550"  src="https://wallpapers.com/images/featured/anime-boy-pictures-ikoa2ot553mv58hf.jpg" />
 
 - 🌱 I’m currently learning **Gen AI And Cloud Platforms**
 
